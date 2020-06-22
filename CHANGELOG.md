@@ -7,8 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2020-06-22
+
 ## Changed
 
 - Make a breaking change worth a new release.
 
-[Unreleased]: https://github.com/giantswarm/REPOSITORY_NAME/tree/master
+[Unreleased]: https://github.com/kopiczko/pawel-operator/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/kopiczko/pawel-operator/releases/tag/v1.0.0
